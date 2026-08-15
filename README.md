@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Thejas M
 
-<!--
-**ThejasM24/ThejasM24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
+🤖 Aspiring AI/ML Engineer
+💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 Currently working on
+• AI/ML projects
+• MERN stack applications
+• My JARVIS AI Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Python • JavaScript • React • Node.js • Express • MongoDB
+...
+
+📌 Featured Projects
+• JARVIS AI Assistant
+• King-Slave
+• E-Voting App
+...
+
+📊 GitHub Stats
+🔥 Contributions
+⭐ Projects
+...
